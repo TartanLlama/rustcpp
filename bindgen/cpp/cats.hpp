@@ -5,7 +5,7 @@ class cat {
 public:
     cat(const char* name);
     
-    const char* name();
+    const char* name() const;
     void meow();
 
 private:

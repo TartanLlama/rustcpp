@@ -1,2 +1,3 @@
 .vscode
 bindgen/rust/target
+cxx/rust/target
